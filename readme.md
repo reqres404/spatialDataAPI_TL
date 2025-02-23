@@ -9,7 +9,7 @@
 
 # Branch Structure
     main :- Final Submissions 
-    pit1 :- Trail branch 
+    test :- Trail branch 
 
 
 # Database setup :
