@@ -44,5 +44,15 @@
                         "longitude": 77.5946
                     }
 # Polygons Sample API
-    http://localhost:3000/polygons
+    endpoint: http://localhost:3000/polygons
     
+    sample body: {
+            "name": "City Boundary",
+            "coordinates": [
+                [77.5, 12.9],
+                [77.6, 12.9],
+                [77.6, 13.0],
+                [77.5, 13.0],
+                [77.5, 12.9]
+                            ]
+                }
